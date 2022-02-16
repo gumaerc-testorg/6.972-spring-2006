@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2bcc4b98-7106-29c3-2f95-f4761a67e6c5
 ---
@@ -207,9 +210,7 @@ Renegar, J. "Hyperbolic Programs, and Their Derivative Relaxations." Preprint, 2
 {{< tdopen >}}
 SDP Representability  
   
-Convex Sets in R2  
-  
-Hyperbolicity and the Lax Conjecture  
+Convex Sets in R{{< sup "2  \n  \n" >}}Hyperbolicity and the Lax Conjecture  
   
 Relating SDP-representable Sets and Hyperbolic Polynomials  
   

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: de462564-01cb-a4f7-be80-4588981bab61
 ---
@@ -222,9 +224,7 @@ Homework 1 due
 {{< tdopen >}}
 SDP Representability  
   
-Convex Sets in R2  
-  
-Hyperbolicity and the Lax Conjecture  
+Convex Sets in R{{< sup "2  \n  \n" >}}Hyperbolicity and the Lax Conjecture  
   
 Relating SDP-representable Sets and Hyperbolic Polynomials  
   

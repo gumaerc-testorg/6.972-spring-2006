@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f88c71c5-5321-378f-be82-d3863039cff0
 ---
@@ -141,9 +144,7 @@ SDP Representability
 {{< tdopen >}}
 SDP Representability  
   
-Convex Sets in R2  
-  
-Hyperbolicity and the Lax Conjecture  
+Convex Sets in R{{< sup "2  \n  \n" >}}Hyperbolicity and the Lax Conjecture  
   
 Relating SDP-representable Sets and Hyperbolic Polynomials  
   
