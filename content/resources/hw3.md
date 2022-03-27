@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2a584658-b0a2-c056-cac3-bcfddb17eec9
 resourcetype: Document
 title: hw3.pdf
 uid: 4235440e-b2a2-598f-316b-58dbeca746e4
