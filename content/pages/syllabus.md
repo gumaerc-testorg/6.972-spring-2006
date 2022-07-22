@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Syllabus section includes prerequisites, course schedule, grading, homework,
+  scribe work, collaboration policy, and bibliography of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: de462564-01cb-a4f7-be80-4588981bab61
 ---
@@ -14,12 +18,12 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-Besides general mathematical maturity, the minimal suggested requirements for the course are the following: Linear Algebra (e.g., [18.06](/courses/18-06-linear-algebra-spring-2005) / [18.700](/courses/18-700-linear-algebra-fall-2013/)), a background course on Linear Optimization or Convex Analysis (e.g., [6.251J](/courses/6-251j-introduction-to-mathematical-programming-fall-2009/) or [6.255 / 15.093](/courses/15-093j-optimization-methods-fall-2009), [6.253](/courses/6-253-convex-analysis-and-optimization-spring-2012/)), Basic Probability (e.g., [6.041 / 6.431](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/)). Familiarity with the basic elements of Modern Algebra (e.g., groups, rings, fields) is encouraged. Knowledge of the essentials of Dynamical Systems and Control (e.g., [6.241](/courses/6-241j-dynamic-systems-and-control-spring-2011)) is recommended, but not required.
+Besides general mathematical maturity, the minimal suggested requirements for the course are the following: Linear Algebra (e.g., [18.06](/courses/18-06-linear-algebra-spring-2005) / [18.700](/courses/18-700-linear-algebra-fall-2013)), a background course on Linear Optimization or Convex Analysis (e.g., [6.251J](/courses/6-251j-introduction-to-mathematical-programming-fall-2009) or [6.255 / 15.093](/courses/15-093j-optimization-methods-fall-2009), [6.253](/courses/6-253-convex-analysis-and-optimization-spring-2012)), Basic Probability (e.g., [6.041 / 6.431](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006)). Familiarity with the basic elements of Modern Algebra (e.g., groups, rings, fields) is encouraged. Knowledge of the essentials of Dynamical Systems and Control (e.g., [6.241](/courses/6-241j-dynamic-systems-and-control-spring-2011)) is recommended, but not required.
 
 Bibliography
 ------------
 
-We will use a variety of book chapters and current papers. Some of these are listed in the [readings]({{< baseurl >}}/pages/readings) section.
+We will use a variety of book chapters and current papers. Some of these are listed in the {{% resource_link 2bcc4b98-7106-29c3-2f95-f4761a67e6c5 "readings" %}} section.
 
 Grading
 -------
@@ -222,9 +226,7 @@ Homework 1 due
 {{< tdopen >}}
 SDP Representability  
   
-Convex Sets in R2  
-  
-Hyperbolicity and the Lax Conjecture  
+Convex Sets in R{{< sup "2  \n  \n" >}}Hyperbolicity and the Lax Conjecture  
   
 Relating SDP-representable Sets and Hyperbolic Polynomials  
   

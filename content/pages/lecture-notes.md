@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Lecture notes section includes course notes.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f88c71c5-5321-378f-be82-d3863039cff0
 ---
@@ -32,7 +36,7 @@ Introduction
 Review of Convexity and Linear Programming
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_01))
+({{% resource_link 7190173d-ff88-ad51-d942-add6026d0d4f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +50,7 @@ PSD Matrices
 Semidefinite Programming
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_02))
+({{% resource_link 89f40b18-adbe-c89b-87d7-3f2816aedd0a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +66,7 @@ Bounds: Goemans-Williamson and Nesterov
 Linearly Constrained Problems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_03))
+({{% resource_link 813f1063-132b-cd1a-be42-83d7c9f75816 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ Review: Groups, Rings, Fields
 Polynomials and Ideals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_04))
+({{% resource_link c3ae2c60-21ca-407a-180a-89c01e2cb4a1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +102,7 @@ Sum of Squares
 Positive Semidefinite Matrices
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_05))
+({{% resource_link 260460cc-36cd-5c2c-78b0-b04f9b3fe7bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +120,7 @@ Applications
 The set of Nonnegative Polynomials
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_06))
+({{% resource_link 46bf636e-cc61-9599-1e39-6703bfe1a1ae "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +134,7 @@ Hyperbolic Polynomials
 SDP Representability
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_07))
+({{% resource_link 1ae3402e-a8aa-2ab1-edf9-c607eeb0ea07 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,16 +145,14 @@ SDP Representability
 {{< tdopen >}}
 SDP Representability  
   
-Convex Sets in R2  
-  
-Hyperbolicity and the Lax Conjecture  
+Convex Sets in R{{< sup "2  \n  \n" >}}Hyperbolicity and the Lax Conjecture  
   
 Relating SDP-representable Sets and Hyperbolic Polynomials  
   
 Characterization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_08))
+({{% resource_link 73e834f8-78db-7055-a49c-59a3cb227dce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +170,7 @@ The Bézout and BKK Bounds
 Application: Nash Equilibria
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_09))
+({{% resource_link 75b47d92-2ee5-70b2-634b-3a50baf2e358 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +190,7 @@ Multivariate Polynomials
 Duality and Density
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_10))
+({{% resource_link a4337243-b7df-bd98-1735-65dfca7d6ce9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +206,7 @@ Moments
 Bridging the Gap
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_11))
+({{% resource_link 8278fc6b-7569-e21b-d91b-ba1d1f16e003 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +226,7 @@ Multivariate Case
 Density Results
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_12))
+({{% resource_link d9e74319-5683-435e-d583-46e5a13bffc1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -242,7 +244,7 @@ Quotient Rings
 Monomial Orderings
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_13))
+({{% resource_link 0328ba26-3a16-40c1-d925-38b1848fa8d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -260,7 +262,7 @@ Applications and Examples
 Zero-dimensional Ideals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_14))
+({{% resource_link 4d8f08c5-92cb-6821-8a37-91479bf7cc4e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +276,7 @@ Zero-dimensional Ideals
 Hilbert Series
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_15))
+({{% resource_link 50c3626b-c591-ac9b-01f2-bc68b279d17f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -290,7 +292,7 @@ Parametric Versions
 SOS on Quotients
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_16))
+({{% resource_link 798da340-610c-6ce1-ccb9-02bb918666f8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -308,7 +310,7 @@ The Zero-dimensional Case
 Optimization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_17))
+({{% resource_link 822e0c9e-5ca5-0c38-c5d4-cc2ae7e90131 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -324,7 +326,7 @@ Tarski-Seidenberg
 Cylindrical Algebraic Decomposition (CAD)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_18))
+({{% resource_link 3c23151a-7bad-cd14-fdee-a579faa83f3a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -342,7 +344,7 @@ Copositive Matrices and Pólya's Theorem
 Positive Polynomials
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_19))
+({{% resource_link 73ecf16e-16f1-a90d-17a0-5f8df18cf5d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -356,7 +358,7 @@ Positive Polynomials
 Schmüdgen's Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_20))
+({{% resource_link 6501781a-afb4-0930-9b3c-13647349d50a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -370,7 +372,7 @@ Groups and their Representations
 Algebra Decomposition
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_21))
+({{% resource_link d5a53a36-3989-6225-046b-afcf78f17636 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -382,7 +384,7 @@ Algebra Decomposition
 Sums of Squares Programs and Polynomial Inequalities
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_22))
+({{% resource_link 63d6e456-5020-5cee-f670-1971a9b4621c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
