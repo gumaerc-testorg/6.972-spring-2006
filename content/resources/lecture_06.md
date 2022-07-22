@@ -6,6 +6,7 @@ file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_06.pdf
 uid: 46bf636e-cc61-9599-1e39-6703bfe1a1ae
 ---
 This course contains notes on Resultants, Discriminants, Applications, and The set of Nonnegative Polynomials.
-

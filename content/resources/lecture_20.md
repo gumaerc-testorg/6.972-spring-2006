@@ -5,6 +5,7 @@ file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_20.pdf
 uid: 6501781a-afb4-0930-9b3c-13647349d50a
 ---
 This course contains notes on Positive Polynomials, Schmudgen's Theorem.
-

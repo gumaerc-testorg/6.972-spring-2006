@@ -7,6 +7,7 @@ file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture_12.pdf
 uid: d9e74319-5683-435e-d583-46e5a13bffc1
 ---
 This course contains notes on Recovering a Measure from its Moments, A Probabilistic Interpretation, Duality and Complementary Slackness, Multivariate Case, Density Results.
-

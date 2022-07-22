@@ -5,6 +5,7 @@ file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_07.pdf
 uid: 1ae3402e-a8aa-2ab1-edf9-c607eeb0ea07
 ---
 This course contains notes on Hyperbolic Polynomials, and SDP Representability.
-
