@@ -4,6 +4,7 @@ description: This course contains notes on SDP Representability, Convex Sets in 
   Hyperbolicity and the Lax Conjecture, Relating SDP-representable Sets and Hyperbolic
   Polynomials, and Characterization.
 file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/73e834f878db7055a49c59a3cb227dce_lecture_08.pdf
+file_size: 306617
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

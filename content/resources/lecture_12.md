@@ -4,6 +4,7 @@ description: This course contains notes on Recovering a Measure from its Moments
   A Probabilistic Interpretation, Duality and Complementary Slackness, Multivariate
   Case, Density Results.
 file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/d9e743195683435ed58346e5a13bffc1_lecture_12.pdf
+file_size: 153776
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
