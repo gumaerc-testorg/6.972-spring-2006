@@ -2,6 +2,7 @@
 content_type: resource
 description: This course contains notes on Positive Polynomials, Schmudgen's Theorem.
 file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/6501781aafb409309b3c13647349d50a_lecture_20.pdf
+file_size: 162725
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

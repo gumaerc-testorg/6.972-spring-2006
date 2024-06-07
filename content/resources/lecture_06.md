@@ -3,6 +3,7 @@ content_type: resource
 description: This course contains notes on Resultants, Discriminants, Applications,
   and The set of Nonnegative Polynomials.
 file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/46bf636ecc6195991e396703bfe1a1ae_lecture_06.pdf
+file_size: 445612
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

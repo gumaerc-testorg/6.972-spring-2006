@@ -3,6 +3,7 @@ content_type: resource
 description: 'This course contains notes on Binomial Equations, Newton Polytopes,
   The B?zout and BKK Bounds, Application: Nash Equilibria.'
 file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/75b47d922ee570b2634b3a50baf2e358_lecture_09.pdf
+file_size: 148995
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
