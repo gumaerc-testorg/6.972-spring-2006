@@ -3,6 +3,7 @@ content_type: resource
 description: 'This course contains notes on Binary Optimization, Bounds: Goemans-Williamson
   and Nesterov, and Linearly Constrained Problems'
 file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/813f1063132bcd1abe4283d7c9f75816_lecture_03.pdf
+file_size: 298125
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
