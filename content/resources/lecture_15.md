@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This course contains notes on Zero-dimensional Ideals, Hilbert Series.
-file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/50c3626bc591ac9b01f2bc68b279d17f_lecture_15.pdf
+file: /ol-ocw-studio-app/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/50c3626bc591ac9b01f2bc68b279d17f_lecture_15.pdf
 file_size: 184563
 file_type: application/pdf
 learning_resource_types:
