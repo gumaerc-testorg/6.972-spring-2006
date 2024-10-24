@@ -2,7 +2,7 @@
 content_type: resource
 description: This course contains notes on SOS Applications, Moments, Bridging the
   Gap.
-file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/8278fc6b7569e21bd91bba1d1f16e003_lecture_11.pdf
+file: /ol-ocw-studio-app/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/8278fc6b7569e21bd91bba1d1f16e003_lecture_11.pdf
 file_size: 190424
 file_type: application/pdf
 learning_resource_types:
