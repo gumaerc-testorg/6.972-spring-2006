@@ -2,7 +2,7 @@
 content_type: resource
 description: This course contains notes on Groups and their Representations, and Algebra
   Decomposition.
-file: /ol-ocw-studio-app/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/d5a53a3639896225046bafcf78f17636_lecture_21.pdf
+file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/d5a53a3639896225046bafcf78f17636_lecture_21.pdf
 file_size: 205409
 file_type: application/pdf
 learning_resource_types:

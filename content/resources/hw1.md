@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 5 problems based on the readings of the course.
-file: /ol-ocw-studio-app/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/cafcb15fd374e89f5bbb2bb5a550b8b5_hw1.pdf
+file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/cafcb15fd374e89f5bbb2bb5a550b8b5_hw1.pdf
 file_size: 85221
 file_type: application/pdf
 learning_resource_types:

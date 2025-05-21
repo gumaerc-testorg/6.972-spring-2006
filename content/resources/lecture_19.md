@@ -2,7 +2,7 @@
 content_type: resource
 description: This course contains notes on Certificates, Psatz Revisited, Copositive
   Matrices and Polya's Theorem, Positive Polynomials.
-file: /ol-ocw-studio-app/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/73ecf16e16f1a90d17a05f8df18cf5d9_lecture_19.pdf
+file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/73ecf16e16f1a90d17a05f8df18cf5d9_lecture_19.pdf
 file_size: 167841
 file_type: application/pdf
 learning_resource_types:
