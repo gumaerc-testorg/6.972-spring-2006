@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains notes on Monomial Orderings, Groebner Bases, Applications
   and Examples, Zero-dimensional Ideals.
-file: /ol-ocw-studio-app/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/4d8f08c592cb68218a3791479bf7cc4e_lecture_14.pdf
+file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/4d8f08c592cb68218a3791479bf7cc4e_lecture_14.pdf
 file_size: 167494
 file_type: application/pdf
 learning_resource_types:

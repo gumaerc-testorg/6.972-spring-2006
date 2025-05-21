@@ -2,7 +2,7 @@
 content_type: resource
 description: This course contains notes on Sums of Squares Programs and Polynomial
   Inequalities.
-file: /ol-ocw-studio-app/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/63d6e45650205ceef6701971a9b4621c_lecture_22.pdf
+file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/63d6e45650205ceef6701971a9b4621c_lecture_22.pdf
 file_size: 323887
 file_type: application/pdf
 learning_resource_types:
