@@ -3,7 +3,7 @@ content_type: resource
 description: This course contains notes on Nonegativity and Sums of Squares, Sums
   of Squares and Semidefinite Programming, Applications and Extensions, Multivariate
   Polynomials, Duality and Density.
-file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/a4337243b7dfbd98173565dfca7d6ce9_lecture_10.pdf
+file: /ol-ocw-studio-app/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/a4337243b7dfbd98173565dfca7d6ce9_lecture_10.pdf
 file_size: 152794
 file_type: application/pdf
 learning_resource_types:
