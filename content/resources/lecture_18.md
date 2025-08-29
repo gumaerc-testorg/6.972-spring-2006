@@ -2,7 +2,7 @@
 content_type: resource
 description: This course contains notes on Quantifier Elimination, Tarski-Seidenberg,
   Cylindrical Algebraic Decomposition (CAD).
-file: /courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/3c23151a7badcd14fdeea579faa83f3a_lecture_18.pdf
+file: /ol-ocw-studio-app/courses/6-972-algebraic-techniques-and-semidefinite-optimization-spring-2006/3c23151a7badcd14fdeea579faa83f3a_lecture_18.pdf
 file_size: 163645
 file_type: application/pdf
 learning_resource_types:
